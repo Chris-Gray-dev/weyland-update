@@ -1,8 +1,9 @@
 {
+	"id":"weyland-ui-theme"
 	"name": "weyland",
 	"title": "Weyland - Alien UI theme",
 	"description": "Foundry VTT theming module for AlienRPG system",
-	"version": "0.5.0",
+	"version": "0.5.1",
 	"author": "Peanuts",
 	"scripts": ["weyland.js"],
 	"styles": ["weyland.css"],
