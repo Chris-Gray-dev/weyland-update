@@ -30,6 +30,6 @@
     		"verified": "11"
   	},
 	"url": "https://github.com/devwebpeanuts/weyland",
-	"manifest": "https://github.com/devwebpeanuts/weyland/releases/latest/download/module.json",
+	"manifest": "https://github.com/Chris-Gray-dev/weyland-update/blob/master/src/module.json",
 	"download": "https://github.com/devwebpeanuts/weyland/releases/download/0.5.0/weyland.zip"
 }
